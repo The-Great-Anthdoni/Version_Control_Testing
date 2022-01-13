@@ -1,1 +1,1 @@
-Hello there! Anthony J. McAllister, The Great Anthdoni, typed here!
+Anthony J. McAllister, The Great Anthdoni
