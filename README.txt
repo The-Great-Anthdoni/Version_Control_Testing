@@ -1,1 +1,0 @@
-Anthony J. McAllister, The Great Anthdoni

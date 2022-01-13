@@ -1,0 +1,12 @@
+1.0 RELEASE NOTES RELEASE NOTES
+
+Are you hyped for the official release of Release Notes, the fun aerodynamic game where you release notes in the hopes of delivering
+them to the proper recipients?! The official release will debut with:
+
+* A variety of different notated media each with their own volume, from newspapers to release notes to (printed) PDFs!
+* A fully fleshed-out physics system so that every crumple and shape in your papers is factored into their successful (or unsuccessful) delivery!
+* A diverse array of recipients spread throughout a contiguous urban city block!
+* Can't find a recipient? No worries! Just use your handy delivery handbook, D-Reference, to point you to what you need!
+* And much more!
+
+What are you waiting for?! Get Release Notes today!
