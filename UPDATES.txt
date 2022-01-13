@@ -1,0 +1,14 @@
+RELEASE NOTES UPDATE RELEASE NOTES
+
+Hello folks! Today we are releasing an update to your favorite game, Release Notes! We are excited to present this update to you all,
+as it has been greatly anticipated! Some of our key changes are:
+
+* Increased volume for media containing images. Now many files are spatially correct!
+* Decreased release note read time from 3 hours to 30 seconds to best reflect the average individual's inclinination to skim over the content.
+* Increased movement speed to allow immediate departure after delivering a package; removed need to verify reception of package.
+* Changed the recipient range of interest from 10% - 50% to 0% - 0.0001% for minor bug fix release notes.
+* Added Flash Drives for increased data mobility.
+* Added Serial Busses and Drivers. After a Driver is found for a Serial Bus, the Driver can aid in data transportation and the Serial Bus can be used as a mass storage device for different media.
+* And much more!
+
+Go on! Download the latest version of Release Notes and let use know what you think! We value your feedback!
